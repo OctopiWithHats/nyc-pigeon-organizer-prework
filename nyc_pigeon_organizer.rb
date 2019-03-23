@@ -6,5 +6,5 @@ def nyc_pigeon_organizer(data)
   data.each do |first_level, second_level|
     second_level.each do |category, array|
       array.each do |name|
-        new_hash[name] = {:color => 
+        new_hash[name] = {:color => []; 
 end
