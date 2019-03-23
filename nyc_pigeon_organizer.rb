@@ -10,5 +10,7 @@ def nyc_pigeon_organizer(data)
           :color => [],
           :gender => [],
           :lives => []}
-          
+        end
+      end
+    end
 end
