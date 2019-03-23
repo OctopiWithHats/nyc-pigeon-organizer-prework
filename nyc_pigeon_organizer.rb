@@ -15,5 +15,5 @@ def nyc_pigeon_organizer(data)
     end
     
     x = new_hash.keys
-    
+    data[:color]
 end
