@@ -13,4 +13,7 @@ def nyc_pigeon_organizer(data)
         end
       end
     end
+    
+    x = new_hash.keys
+    
 end
