@@ -26,5 +26,5 @@ def nyc_pigeon_organizer(data)
     end
     
     data[:gender].each do |gender, type|
-      
+      type.each do |
 end
