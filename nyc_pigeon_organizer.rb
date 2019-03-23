@@ -6,5 +6,5 @@ def nyc_pigeon_organizer(data)
     subhash.each do |attribute, array|
       array.each do |name|
         if !new_hash.has_key?(name)
-          new_hash(name)
+          new_hash[name] 
 end
