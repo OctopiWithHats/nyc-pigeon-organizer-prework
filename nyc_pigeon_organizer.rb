@@ -23,4 +23,7 @@ def nyc_pigeon_organizer(data)
           end
         end
       end
+    end
+    
+    data[:gender]
 end
