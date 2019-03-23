@@ -9,5 +9,6 @@ def nyc_pigeon_organizer(data)
           new_hash[name] = {}
         end
         
-        if 
+        if !new_hash.has_key?(property)
+          
 end
